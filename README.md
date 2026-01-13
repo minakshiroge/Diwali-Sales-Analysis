@@ -1,5 +1,5 @@
 # Diwali-Sales-Analysis
-Analyzed Diwali sales data using Python to identify high-value customer segments, top-performing states, and best-selling product categories through data cleaning, EDA, and visualization.
+Analyzed Diwali sales data using Python to identify high-value customer segments, top-performing states, and best-selling product categories through data cleaning, exploratory data analysis (EDA), and visualization.
 
 ## Project Objective
 
@@ -39,7 +39,7 @@ Key Columns
 The dataset was preprocessed by:
 - Removing blank and irrelevant columns
 - Handling missing values
-- Converting Amount to integer for accurate calculations
+- Converting the Amount column to integer for accurate calculations
 
 ## Project Workflow
 🔹 Step 1: Data Loading (Python – Pandas)
@@ -54,7 +54,7 @@ Performed:
 - Data type corrections for Amount column
 - Structural checks using .info() and .describe()
 
-Tools Used: Python (Pandas, NumPy)
+Tools Used: Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 🔹 Step 3: Exploratory Data Analysis (EDA)
 
@@ -94,7 +94,7 @@ They primarily purchase products from Food, Clothing, and Electronics categories
 
 These insights can be used to:
 - Design targeted festive marketing campaigns
- Optimize inventory for high-demand categories
+- Optimize inventory for high-demand categories
 - Focus promotions on high-value customer segments
 
 
