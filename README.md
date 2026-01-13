@@ -18,6 +18,14 @@ To analyze Diwali sales data and uncover insights related to:
 - IT, Healthcare, and Aviation professionals spend the most
 - Food, Clothing, and Electronics dominate total festive sales
 
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Visual Studio Code
+
 ## Dataset Overview
 
 The dataset contains Diwali sales records with customer and transaction details.
@@ -53,8 +61,6 @@ Performed:
 - Null value detection and removal
 - Data type corrections for Amount column
 - Structural checks using .info() and .describe()
-
-Tools Used: Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 🔹 Step 3: Exploratory Data Analysis (EDA)
 
@@ -97,7 +103,11 @@ These insights can be used to:
 - Optimize inventory for high-demand categories
 - Focus promotions on high-value customer segments
 
-
+## How to Run
+1. Clone the repository
+2. Install required libraries: pandas, numpy, matplotlib, seaborn
+3. Open Diwali_sales_project.ipynb in VS Code (Jupyter Extension)
+4. Run all cells to reproduce the analysis and visualizations
 
 
 
