@@ -3,7 +3,7 @@ Analyzed Diwali sales data using Python to identify high-value customer segments
 
 ## Project Objective
 
-To analyze Diwali sales data and uncover insights related to :
+To analyze Diwali sales data and uncover insights related to:
 - Customer demographics (age, gender, marital status)
 - Regional performance
 - Occupational spending patterns
@@ -22,7 +22,7 @@ To analyze Diwali sales data and uncover insights related to :
 
 The dataset contains Diwali sales records with customer and transaction details.
 
-Key Columns
+### Key Columns
 - User_ID
 - Gender
 - Age
