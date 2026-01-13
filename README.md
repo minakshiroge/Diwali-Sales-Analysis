@@ -85,7 +85,7 @@ These visuals helped identify:
 - High-performing regions
 - Revenue-driving products
 
-📈 Analytical Findings
+## Analytical Findings
 
 - Women aged 26–35 years are the most valuable customer segment
 - Married women consistently generate the highest revenue
@@ -93,7 +93,7 @@ These visuals helped identify:
 - A small set of product categories drives most of the revenue
 - Certain states outperform others during festive seasons
 
-📌 Conclusion
+## Conclusion
 
 Married women aged 26–35 from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors are the most profitable customers during Diwali.
 They primarily purchase products from Food, Clothing, and Electronics categories.
